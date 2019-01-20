@@ -30,4 +30,21 @@
 
 This repository contains my personal handwritten notes for the Udacity's AI for Trading Course.
 
+## Files
+
+<pre>
+
+.
+|
++-+Breakout Strategy.md---# Breakout statregy like mean reversion and pairs
+|                           trading
+|
++-+Factor Modelling.md----# Alpha Research and factor modelling
+|
++-+Momentum Trading.md----# Momentum trading based on price/vol data
+|
++-+Smart-Beta.md----------# Combination of active and passive fund management
+
+</pre>
+
 At the moment, only the notes for Term 1 are available.
