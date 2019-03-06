@@ -1,2 +1,5 @@
 # vscode settings
 .vscode/*
+
+# Jupyter Notebook Checkpoints
+/Cool Scripts from Term 1/.ipynb_checkpoints/
