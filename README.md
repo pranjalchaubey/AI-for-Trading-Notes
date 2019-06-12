@@ -1,34 +1,13 @@
 # AI-for-Trading-Notes
 
-## Table of Contents
-
-1. [Momentum Trading](#mom_t)
-    1. [Stock Prices](#stock_p)
-    2. [Market Mechanics](#market_m)
-    3. [Data Processing](#data_prep)
-    4. [Stock Returns](#stock_ret)
-    5. [Momentum Trading](#mom_t)
-2. [Breakout Strategy](#breakout)
-    1. [Quant Workflow](#quant_w)
-    2. [Outlier and Filtering](#outliers)
-    3. [Regression](#regr)
-    4. [Time Series Modelling](#time_s)
-    5. [Volatility](#vol)
-    6. [Pairs Trading and Mean Reversion](#pairs)
-3. [Smart-Beta](#smart-beta)
-    1. [Stocks, Indices and Funds](#stocks_i)
-    2. [ETFs](#etf)
-    3. [Portfolio Risk and Return](#risk)
-    4. [Portfolio Optimization](#opt)
-4. [Factor Modelling](#fac_mod)
-    1. [Factors](#fac)
-    2. [Factor Models and Types of Models](#fac_m)
-    3. [Risk Factor Models](#rfm)
-    4. [Alpha Factors](#alpha)
-    5. [Alpha Factor Research Methods](#research)
-    6. [Advanced Portfolio Optimization](#opt_adv)
-
 This repository contains my personal handwritten notes for the Udacity's AI for Trading Course.
+
+Notes for Term 1 are complete. 
+Term 2 notes are a work in progress. 
+
+I am also collating some useful scripts from Term 1 inside 'Cool Scripts from Term 1' folder. It is currently a work in progress and scripts from Term 2 will follow soon. 
+
+Please download the PDF files direclty, they sometimes don't open properly inside the GitHub interface since they have a large size (50MB+). 
 
 ## Files
 
@@ -36,15 +15,10 @@ This repository contains my personal handwritten notes for the Udacity's AI for 
 
 .
 |
-+-+Breakout Strategy.md---# Breakout statregy like mean reversion and pairs
-|                           trading
++-+AI for Trading Term 1 Notes.pdf---# Complete notes from Term 1
 |
-+-+Factor Modelling.md----# Alpha Research and factor modelling
++-+AI for Trading Term 2 Notes.pdf----# Term 2 Notes 
 |
-+-+Momentum Trading.md----# Momentum trading based on price/vol data
-|
-+-+Smart-Beta.md----------# Combination of active and passive fund management
++-+Cool Scripts from Term 1/cool_term1_scripts.ipynb---# Useful Scripts
 
 </pre>
-
-At the moment, only the notes for Term 1 are available.
